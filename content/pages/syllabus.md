@@ -77,12 +77,57 @@ Class requirements include extensive reading, ongoing assignments related to dev
 
 ### Grading
 
-| activities | percentAGES |
-| --- | --- |
-| Active Participation and Contribution to Class Discussions | 15% |
-| Attendance | 10% |
-| First Short Assignment | 10% |
-| Group Project (Develop an urban design/economic development plan for a Main Streets District in Boston) | 65% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active Participation and Contribution to Class Discussions
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Short Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Project (Develop an urban design/economic development plan for a Main Streets District in Boston)
+{{< tdclose >}}
+{{< tdopen >}}
+65%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
