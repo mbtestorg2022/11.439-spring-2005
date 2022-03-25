@@ -42,7 +42,7 @@ Urban Neighborhood Decline: Causes, Consequences, Challenges
 
 National Trust for Historic Preservation. _Revitalizing Urban Main Streets_. Washington, DC: [National Trust Main Street Center](http://www.preservationnation.org/main-street/).
 
-Seidman, Karl F. _Wanted: Solutions for America._ Final Research Report, Boston Main Streets Program. Washington, DC: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Center for Urban Policy Research (PDF)](http://cupr.rutgers.edu/), 2003, pp. 3-21.
+Seidman, Karl F. _Wanted: Solutions for America._ Final Research Report, Boston Main Streets Program. Washington, DC: [Center for Urban Policy Research (PDF)](http://cupr.rutgers.edu/), 2003, pp. 3-21.
 
 Zielenbach, Sean. _The Art of Revitalization_. New York, NY: Garland Publishing, 2000, chapter 5, pp. 133-174. ISBN: 0815335989.
 
@@ -214,7 +214,7 @@ National Trust for Historic Preservation. _Revitalizing Urban Main Streets_. Hyd
 
 Karl F. Seidman Consulting Services and Mt. Auburn Associates. _Brattleboro Market Analysis Report_. pp. 1-29. Unpublished document.
 
-Glickman, and Servon. "More than Bricks and Sticks: What is Community Development Capacity." CUPR Working Paper No. 132. New Brunswick, NJ: Center for Urban Policy Research, Rutgers University, 1997. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cupr.rutgers.edu/wp-content/uploads/2014/08/Report1.pdf))
+Glickman, and Servon. "More than Bricks and Sticks: What is Community Development Capacity." CUPR Working Paper No. 132. New Brunswick, NJ: Center for Urban Policy Research, Rutgers University, 1997. ([PDF](http://cupr.rutgers.edu/wp-content/uploads/2014/08/Report1.pdf))
 
 McKnight, John L., and John P. Kretzmann. _Mapping Community Capacity_. Institute for Policy Research, Northwestern University, 1996, pp. 1-21. ([PDF](http://www.northwestern.edu/ipr/publications/papers/mcc.pdf))
 
@@ -486,9 +486,9 @@ Policies and Interventions III: Marketing and Promotion
 {{< tdopen >}}
 
 
-Seidman, Karl F. "Revitalizing Commerce for American Cities," and "Economic Restructuring." Chapter 5 and 6 in _A Practitioner's Guide to Implementing Urban Main Streets_. Vol. 1. pp. 23-38 and 56-70. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB](https://www.innovations.harvard.edu/sites/default/files/49663.pdf))
+Seidman, Karl F. "Revitalizing Commerce for American Cities," and "Economic Restructuring." Chapter 5 and 6 in _A Practitioner's Guide to Implementing Urban Main Streets_. Vol. 1. pp. 23-38 and 56-70. ([PDF - 1.8 MB](https://www.innovations.harvard.edu/sites/default/files/49663.pdf))
 
-Toups, Catherine, and James H. Carr. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Reimaging Distressed Communities: A Strategy to Reverse Decline and Attract Investors." (PDF)](http://www.innovations.harvard.edu/sites/default/files/Reimaging-Distressed-Communities.pdf) _Building Blocks_ 1, no. 1 (Spring 2000).
+Toups, Catherine, and James H. Carr. ["Reimaging Distressed Communities: A Strategy to Reverse Decline and Attract Investors." (PDF)](http://www.innovations.harvard.edu/sites/default/files/Reimaging-Distressed-Communities.pdf) _Building Blocks_ 1, no. 1 (Spring 2000).
 
 Hoffman, Lily M. "The Marketing of Diversity in the Inner City: Tourism and Regulation in Harlem." _International Journal of Urban and Regional Research_ 27, no. 2 (June 2003): 286-299.
 
