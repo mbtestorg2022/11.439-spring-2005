@@ -12,6 +12,7 @@ description: 'This resource is a form, which asks the participants to fill some 
   plans, and How does the program plan to use the final plan?'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/95fede874ac2af62c57ffce4abd6ff56_hjsms_app_form.pdf
 file_type: application/pdf
+parent_uid: ab182a6c-39de-c055-a3dd-577ea9da1ddd
 resourcetype: Document
 title: hjsms_app_form.pdf
 uid: 95fede87-4ac2-af62-c57f-fce4abd6ff56

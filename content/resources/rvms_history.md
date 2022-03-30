@@ -11,6 +11,7 @@ description: Roslindale, MA originally part of Roxbury and then West Roxbury was
   grated. There was virtually no foot traffic.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/fd4b948ccd6e93acc6b95ca3acc5c100_rvms_history.pdf
 file_type: application/pdf
+parent_uid: ab182a6c-39de-c055-a3dd-577ea9da1ddd
 resourcetype: Document
 title: rvms_history.pdf
 uid: fd4b948c-cd6e-93ac-c6b9-5ca3acc5c100

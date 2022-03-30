@@ -11,6 +11,7 @@ description: 'HJSMS has done a significant amount of research on the commercial 
   agenda of the design committee?'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/ae6c4eee37d4c25c579c6b9506b7ab36_hjsms_research.pdf
 file_type: application/pdf
+parent_uid: ab182a6c-39de-c055-a3dd-577ea9da1ddd
 resourcetype: Document
 title: hjsms_research.pdf
 uid: ae6c4eee-37d4-c25c-579c-6b9506b7ab36

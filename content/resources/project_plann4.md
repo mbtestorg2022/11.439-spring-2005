@@ -10,6 +10,7 @@ description: 'During this initial assessment phase, our goal is to identify the 
   observation of the commercial activity of the District, etc.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/5be9aa6704729a6dd55f6dbd1e32b001_project_plann4.pdf
 file_type: application/pdf
+parent_uid: ab182a6c-39de-c055-a3dd-577ea9da1ddd
 resourcetype: Document
 title: project_plann4.pdf
 uid: 5be9aa67-0472-9a6d-d55f-6dbd1e32b001

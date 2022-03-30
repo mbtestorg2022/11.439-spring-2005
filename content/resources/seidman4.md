@@ -15,6 +15,7 @@ description: 'After decades of decline, cities are rebounding, and one key to br
   inner-city business districts.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/673b95e2b2b7ff384b882f2f070c67e3_seidman4.pdf
 file_type: application/pdf
+parent_uid: 8eafea75-ea73-1246-c670-c79dfd1501f6
 resourcetype: Document
 title: seidman4.pdf
 uid: 673b95e2-b2b7-ff38-4b88-2f2f070c67e3

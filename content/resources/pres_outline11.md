@@ -13,6 +13,7 @@ description: 'The given outline is a guide for thinking about organizing and pre
   discussion.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-439-revitalizing-urban-main-streets-hyde-jackson-square-roslindale-square-boston-spring-2005/88a9b3d78047a7178a446fc94bed8824_pres_outline11.pdf
 file_type: application/pdf
+parent_uid: ab182a6c-39de-c055-a3dd-577ea9da1ddd
 resourcetype: Document
 title: pres_outline11.pdf
 uid: 88a9b3d7-8047-a717-8a44-6fc94bed8824
